@@ -52,6 +52,9 @@ var demo2, demo3;
     var number2 = 15;
 
         number1 = number1 + number2;
+    
+    //  VM184:1 Uncaught ReferenceError: number1 is not defined at <anonymous>:1:1
+    
 
 
 
